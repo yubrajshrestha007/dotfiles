@@ -116,3 +116,4 @@ export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/tools/bin
 
 eval "$(starship init zsh)"
+eval "$(zoxide init zsh)"
